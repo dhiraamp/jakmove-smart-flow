@@ -1,0 +1,6 @@
+{
+  "name": "JakMove Smart Flow",
+  "description": "Platform pemantauan logistik real-time, manajemen armada pintar, optimalisasi rute AI, pemeliharaan prediktif kendaraan, kepatuhan pengemudi, dan pelacakan kiriman lintas platform Jabodetabek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
